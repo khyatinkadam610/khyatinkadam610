@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 - 💼 Data Scientist at **Philips Healthcare**, working on predictive diagnostics, ETL pipelines, and ML-powered alerting systems.
 - 🎯 Passionate about **AI/ML**, **MLOps**, and **data-driven problem solving**.
-- 🌱 Currently mastering **Retrieval-Augmented Generation (RAG)** and **LLM fine-tuning**.
+- 🌱 Currently mastering **Retrieval-Augmented Generation (RAG)** through ED donner's course
 - 🛠 Built ML solutions that improved system accuracy by **6%** and reduced downtime by **25%**.
 - 🏆 Love hackathons, research challenges, and building end-to-end solutions.
 
