@@ -30,7 +30,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD700?logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+
 
 #### Cloud & MLOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
@@ -50,7 +50,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [🔊 Multilingual Speech Recognition RAG](#) | Whisper + RAG pipeline for multilingual transcription & summarization | Python, PyTorch, Hugging Face |
-| [🚗 License Plate Detection & Classification](#) | Real-time plate detection + EV classification | PyTorch, OpenCV, Roboflow |
+| [🚗 License Plate Detection & Classification](#) | Real-time plate detection | PyTorch, OpenCV, Roboflow |
 
 ---
 
