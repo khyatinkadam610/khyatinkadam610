@@ -51,7 +51,6 @@
 |---------|-------------|------|
 | [🔊 Multilingual Speech Recognition RAG](#) | Whisper + RAG pipeline for multilingual transcription & summarization | Python, PyTorch, Hugging Face |
 | [🚗 License Plate Detection & Classification](#) | Real-time plate detection + EV classification | PyTorch, OpenCV, Roboflow |
-| [📊 Boot Time Analytics Dashboard](#) | Power BI dashboard for equipment boot time monitoring | Power BI, SQL, Vertica |
 
 ---
 
