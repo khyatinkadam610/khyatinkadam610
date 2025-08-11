@@ -54,13 +54,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khyatin-kadam&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khyatin-kadam&layout=compact&theme=tokyonight" alt="top langs" height="165"/>
-</p>
-
----
 
 ### 📫 Connect With Me
 - 📧 **Email:** [khyatinkadam610@gmail.com](mailto:khyatinkadam610@gmail.com)  
@@ -68,5 +61,5 @@
 
 ---
 
-⭐️ From [KhyatinKadam](https://github.com/khyatin-kadam)
+⭐️ From [KhyatinKadam](https://github.com/khyatinkadam610/khyatinkadam610)
 
